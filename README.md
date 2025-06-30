@@ -177,3 +177,13 @@ CODTECH IT SOLUTIONS
 - React team for the amazing framework
 
 This project showcases modern web development practices, combining real-time functionality with an engaging user interface to create a seamless chat experience.
+
+OUTPUT:
+
+![Screenshot (73)](https://github.com/user-attachments/assets/eacfe2f4-76c6-42f5-a827-c5188a54c1f2)
+![Screenshot (72)](https://github.com/user-attachments/assets/cfb915df-b289-403f-ac42-c6139fea3d8f)
+![Screenshot (71)](https://github.com/user-attachments/assets/fe8587b1-189e-430f-a91f-71453e5fa07b)
+![Screenshot (70)](https://github.com/user-attachments/assets/58e1cdf8-5cd9-445c-a813-b63fddcffd3c)
+![Screenshot (69)](https://github.com/user-attachments/assets/7967f7dc-2ef3-4fdc-8af6-db88f1419b58)
+![Screenshot (68)](https://github.com/user-attachments/assets/d73dc1fa-e4fb-494b-bf7c-f29cd6245063)
+
